@@ -1,9 +1,6 @@
-### Hi there 👋
-
-
 <!--**adya2004/adya2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Hello there 👋
+# Hi there 👋
 
 ### 🤖 I'm an AI student at NITK.
 ### 💻 I'm passionate about building high-quality applications and diving into the world of AI!
