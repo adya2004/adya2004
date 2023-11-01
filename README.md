@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**adya2004/adya2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**adya2004/adya2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hello there 👋
 
