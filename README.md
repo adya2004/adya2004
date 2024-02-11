@@ -4,6 +4,7 @@
 
 ### 🤖 I'm an AI student at NITK.
 ### 💻 I'm passionate about building high-quality applications and diving into the world of AI!
+### 🌐 Intersted in Web-development.
 
 ![Adya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adya2004&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adya2004&layout=compact&theme=tokyonight)
